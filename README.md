@@ -4,6 +4,8 @@ This game includes the turtlebots mod, and basically nothing else.
 
 The goal is to allow students to play the turtlebots mod without the distraction of other minetest/luanti game mechanics.
 
+The [turtlebots github repository](https://github.com/jmole/turtlebots) has more information on how to play, including some example turtlebot programs.
+
 ## Video Overview
 
 This video provides a quick overview of turtlebots:
