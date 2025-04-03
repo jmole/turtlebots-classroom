@@ -8,7 +8,8 @@ The goal is to allow students to play the turtlebots mod without the distraction
 
 This video provides a quick overview of turtlebots:
 
-[![Turtlebots on Youtube](mods/turtlebots/images/turtlebots-youtube-thumbnail.jpg)](https://www.youtube.com/watch?v=UR30MB3449k)
+<a href ="https://www.youtube.com/watch?v=UR30MB3449k">
+<img src="https://github.com/jmole/turtlebots/blob/af6e212b6d99e8de45709ac0d6132df8fb09d963/images/turtlebots-youtube-thumbnail.jpg" alt="Turtlebots on Youtube" width="540px" /></a>
 
 ## More information:
 
