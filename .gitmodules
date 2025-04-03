@@ -1,0 +1,3 @@
+[submodule "mods/turtlebots"]
+	path = mods/turtlebots
+	url = ../turtlebots.git
